@@ -1,0 +1,49 @@
+<!DOCTYPE hml>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Digital Srujal</title>
+</head>
+<body>
+    <nav class="navbar background">
+        <ul class="nav-list">
+            <div class="logo"><img src="img/logo.png" alt="Logo"></div>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#services">Services</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+        <div class="right-nav">
+            <input type="text" name="search" id="search">![background](https://user-images.githubusercontent.com/98692867/170006048-91e50ded-26e3-4700-8b83-b30fc25280bc.png)
+![logo](https://user-images.githubusercontent.com/98692867/170006088-ce89f653-669a-45d9-8ec7-87223e4b0d1a.png)
+
+            <button class="btn btn-sm">Search</button>
+        </div>
+    </nav>
+    <section class="background first-section">
+        <div class="box-main">
+            <div class="first-half">
+                <p class="text-big">Hi, I Am Srujal Pawar</p>
+                <p class="text-small">Welcome to my blog! And glad that you  have checked out my about page. I am a passionate digital marketer. That’s why I called my self Digital Srujal.I have been in the digital marketing industry since 2019. I write about digital marketing on this blog.</p>
+                <div class="buttons">
+                    <button class="btn">Subscribe</button>
+                    <button class="btn">Watch more</button>
+                </div>
+            </div>
+            <div class="second-half">
+                <img src="img/logo.png" alt="logo">
+            </div>
+        </div>
+    </section>
+    <section class="section-right">
+        <p class="section-tag">Title</p>
+        <p class="section-subtag">Subtitle</p>
+    </section>
+    <section class="our-clients">
+        
+    </section>
+</body>
+</html>
